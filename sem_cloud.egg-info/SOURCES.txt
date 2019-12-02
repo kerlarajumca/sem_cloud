@@ -1,0 +1,7 @@
+README.md
+sem_cloud
+setup.py
+sem_cloud.egg-info/PKG-INFO
+sem_cloud.egg-info/SOURCES.txt
+sem_cloud.egg-info/dependency_links.txt
+sem_cloud.egg-info/top_level.txt
